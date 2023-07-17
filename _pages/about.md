@@ -21,5 +21,4 @@ Because of my passion for remote sensing and AI technology, I plan to pursue
 a related phd degree and continue to engage in related research.
 
 If you have anything you want to communicate, feel free to contact me through [jialinsun4815162342@gmail.com](jialinsun4815162342@gmail.com).
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
