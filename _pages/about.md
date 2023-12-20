@@ -17,8 +17,5 @@ Recently I am interested in what foundation models like Segment Anything Model (
 can bring to remote sensing and agriculture. Therefore, I am working on a project that
 involves evaluating the performance of SAM and some practical applications.
 
-Because of my passion for remote sensing and AI technology, I plan to pursue
-a related phd degree and continue to engage in related research.
-
 If you have anything you want to communicate, feel free to contact me through [jialinsun4815162342@gmail.com](jialinsun4815162342@gmail.com).
 
