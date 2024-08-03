@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[1]	<u>**Sun, J.**</u>, Yan, S., Yao, X., Gao, B., Yang, J., A Segment Anything Model based weakly supervised learning method for crop mapping using Sentinel-2 time series images. (__*Revised__)
+[1]	**Sun, J.**, Yan, S., Yao, X., Gao, B., Yang, J., A Segment Anything Model based weakly supervised learning method for crop mapping using Sentinel-2 time series images. (__*Revised__)
 
 [2]	**Sun, J.**, Yan S, Alexandridis T, et al. Enhancing Crop Mapping through Automated Sample Generation Based on Segment Anything Model with Medium-Resolution Satellite Imagery[J]. Remote Sensing, 2024, 16(9): 1505.
 
