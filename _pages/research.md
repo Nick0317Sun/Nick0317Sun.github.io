@@ -24,13 +24,13 @@ author_profile: true
 
 ## *Several previous projects*
 ### [1] Research on Segment Anything Model (SAM)-Assisted remote sensing crop mapping
-#### *Enhancing crop mapping through an automated sample generation framework based on SAM*
+### *Enhancing crop mapping through an automated sample generation framework based on SAM*
 * Evaluate the performance of SAM for crop parcel segmentation using medium-resolution satellite imagery, such as Sentinel-2 and Landsat-8.
 * Develop a novel automated sample generation framework based on SAM.
 * Assess the effectiveness of the framework in Henan Province of China and southern Ontario of Canada.
 * Relevant code can be found at [SAM-CropSampleGeneration](https://github.com/Nick0317Sun/SAM-CropSampleGeneration). Related publication: [Sun et al., 2024](https://www.mdpi.com/2072-4292/16/9/1505).
 
-#### *A weakly supervised learning method based on SAM for crop mapping*
+### *A weakly supervised learning method based on SAM for crop mapping*
 * Use adapters to finetune SAM for crop parcel segmentation in Sentinel-2 images.
 * Generate high-quality pseudo labels through finetuned SAM and weak annotations, replacing the labor-intensive process of obtaining pixel-level annotations.
 * Apply pseudo labels to train a fully supervised segmentation model to conduct crop mapping.
