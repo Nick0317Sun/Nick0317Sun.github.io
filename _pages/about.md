@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my master's degree in Land Use and Information Technology from China Agricultural University. Currently, I am working as a research assistant for [Prof. Xuecao Li](https://scholar.google.com.hk/citations?user=r2p47SEAAAAJ&hl=zh-CN) in China Agricultural University. My research now is mainly 
-focused on the impact of green space on different building heights, as well as the generation of high spatial resolution hourly land surface temperature products. More details about me can be found in the attached personal CV.
+**Jialin Sun (孙嘉麟)** received his master's degree in Land Use and Information Technology from China Agricultural University. He is currently a research assistant at the [Urban Environmental Monitoring and Modeling laboratory](https://www.x-mol.com/groups/li_xuecao?lang=en), led by [Prof. Xuecao Li](https://scholar.google.com.hk/citations?user=r2p47SEAAAAJ&hl=zh-CN). He has a strong background in remote sensing, with interdisciplinary expertise spanning geography, agriculture, machine learning, and artificial intelligence. His current research focuses on the visual accessibility of urban greenspaces from buildings of varying heights on a global scale, as well as the generation of high-resolution, hourly land surface temperature products worldwide. Prior to joining the lab, he worked on crop mapping using deep learning techniques, particularly leveraging visual foundation models.
 
 If you have anything you want to communicate, feel free to contact me through [jialinsun4815162342@gmail.com](jialinsun4815162342@gmail.com).
 
