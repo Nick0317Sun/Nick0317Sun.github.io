@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+
 # In preparation
 *[1]	Quantifying visual accessibility of greenery in urban buildings from a three-dimensional perspective: An empirical approach.*  
 *[2]	Generating 70 m, hourly, all-weather land surface temperature for urban regions based on ECOSTRESS and reanalysis data.*
