@@ -1,14 +1,10 @@
 ---
 layout: archive
-title: "Research Interests"
+title: "Research Experiences"
 permalink: /research/
 author_profile: true
 ---
 
-
-
-
-# Research Experiences
 ## *Ongoing research projects*
 ### [1] Evaluating the visual accessibility of urban greenspaces from different building heights on a global scale 
 * Develop an efficient method to calculate the green view index (GVI) of different building heights.
