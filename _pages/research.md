@@ -6,11 +6,7 @@ author_profile: true
 ---
 
 
-<!-- # Research Interests -->
 
-**Urban sustainability, Environmental remote sensing, Land use and land cover mapping, Multi-source data fusion, Time series analysis, Machine learning, and Deep learning**
-<br>
-<br>
 
 # Research Experiences
 ## *Ongoing research projects*
