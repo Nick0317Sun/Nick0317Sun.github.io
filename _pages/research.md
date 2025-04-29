@@ -6,13 +6,9 @@ author_profile: true
 ---
 
 ## *Ongoing research projects*
-### [1] Evaluating the visual accessibility of urban greenspaces from different building heights on a global scale 
+### Evaluating the visual accessibility of urban greenspaces from different building heights on a global scale 
 * Develop an efficient method to calculate the green view index (GVI) of different building heights.
 * Evaluate the visual accessibility of urban greenspaces across different cities worldwide.
-
-### [2] Generating a worldwide high spatial resolution hourly land surface temperature product
-* Develop a high spatial resolution, hourly LST data generation framework using ECOSTRESS LST data, as well as multi-source data.
-* Apply the framework globally to generate a valid product.
 
 ## *Several previous projects*
 ### [1] Research on Segment Anything Model (SAM)-Assisted remote sensing crop mapping
